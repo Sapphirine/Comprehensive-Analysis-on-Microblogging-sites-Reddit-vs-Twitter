@@ -14,13 +14,13 @@ Novelty - Work has been done on predicting the impact of tweets and posts on sto
 
 ## Results 
 
-Results of Classification Models: Impact of Market Sentiment on Stock Price Trends
+### Results of Classification Models: Impact of Market Sentiment on Stock Price Trends
 
 <img width="765" alt="Screen Shot 2021-12-22 at 11 30 57 PM" src="https://user-images.githubusercontent.com/40158216/147188177-bc801cce-c860-4409-b768-ad916d608f08.png">
 
-Results - Viral Topic Analysis
+### Results - Viral Topic Analysis
 
-Results for Sensitive topic analysis
+### Results for Sensitive topic analysis
 
 Reddit 
 
