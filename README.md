@@ -1,5 +1,11 @@
 # Comprehensive-Analysis-on-Microblogging-sites-Reddit-vs-Twitter
 
+## Instructions:
+The various parts of our project are in different folder. The master-lib-code contains the python modules used in the notebooks. 
+For stock price analysis two python scripts are used.
+There are two folder of notebook for this part of the project. 
+Similarily we have the same structure of sensitive topics analysis and viral topic analysis. 
+
 ## Motivation 
 
 With the ability of one post and tweet to go viral, organizations have to be careful  about what they are portraying in their marketing campaigns and public statements they make. These posts and tweets also have the ability to impact the stock price of an organization.
